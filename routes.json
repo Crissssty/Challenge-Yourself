@@ -1,0 +1,10 @@
+{
+  "/departments/findAll": "/departments",
+  "/employees/findAll": "/employees",
+  "/jobs/findAll": "jobs",
+  "/locations/findAll": "/locations",
+  "/departments/findOne/:departmentId": "/departments?departmentId=:departmentId",
+  "/employees/findOne/:employeeId": "/employees?employeeId=:employeeId",
+  "/jobs/findOne/:jobId": "/jobs?jobId=:jobId",
+  "/locations/findOne/:locationId": "/locations?locationId=:locationId"
+}
